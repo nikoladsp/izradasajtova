@@ -9,6 +9,4 @@ ali sam u međuvremenu ili zaboravio ili ne mogu da pronađem originalnu referen
 Iz toga razloga pravim ovaj podsetnik, gde će u kratkoj formi, biti navedeni
 neki veoma česti primeri koda.
 
-.. toctree::
- :maxdepth: 2
- :numbered:
+`Raspored elemenata <layout/index.rst>`_

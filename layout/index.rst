@@ -9,9 +9,5 @@ selektori pišu za mobilne telefone, a za uređaje sa većim ekranom se koristi
 
 Dominantna su sledeća dva načina da postignemo prilagodljiv izgled sajta:
 
-.. toctree::
- :maxdepth: 2
- :numbered:
-
- flexbox
- grid
+1. `Flexbox <flexbox.rst>`_
+2. `Grid <grid.rst>`_
